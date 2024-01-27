@@ -1,0 +1,26 @@
+{
+  "name": "tienda-de-ropa",
+  "version": "1.0.0",
+  "description": "Pruebas automatizadas de la app web Tienda de ropa usando Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qa",
+    "cypress",
+    "automation",
+    "victor"
+  ],
+  "author": "Victor Moya",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.6.3"
+  },
+  {
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Victor5733/Tienda-de-Ropa"
+    }
+  }
+}
