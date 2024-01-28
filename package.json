@@ -1,5 +1,5 @@
 {
-  "name": "tienda-de-ropa",
+  "name": "tiendade-ropa",
   "version": "1.0.0",
   "description": "Pruebas automatizadas de la app web Tienda de ropa usando Cypress",
   "main": "index.js",
@@ -17,10 +17,8 @@
   "dependencies": {
     "cypress": "^13.6.3"
   },
-  {
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Victor5733/Tienda-de-Ropa"
-    }
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Victor5733/Tienda-de-Ropa"
   }
 }
